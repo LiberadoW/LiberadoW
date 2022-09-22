@@ -4,7 +4,7 @@
 
 ### You can see live versions of my projects below:
 
-# [Victoria Gaj website](https://victoriagaj.herokuapp.com/)
+# [Victoria Gaj website](http://www.victoria.mogilany.pl/)
 
 This project is my first website I've created using React. It was created for my friend that is a coach for Victoria Gaj women football team. It features Headless CMS system that was created using Strapi.
 
