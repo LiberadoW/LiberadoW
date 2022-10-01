@@ -16,7 +16,7 @@ This project is an army builder for a fantasy miniature game called Warheim. As 
 
 This wesbite lets you to browse through Hearthstone cards from standard expansions. You can filter the cards by class and sort them by mana cost or card name. It is possible to filter the cards by any word using the 'search' box. It will show every card that has the chosen word in it's name or text box.
 
-# [React Quiz App](liberadoquizapp.netlify.app/)
+# [React Quiz App](https://liberadoquizapp.netlify.app/)
 
 
 This project is another on my path to learning Typescript and SCSS. It's a simple quiz game that fetches questions from opentdb API. In this project, I've focused more on styling the elements, adding animations and make it better looking in general. 
