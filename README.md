@@ -8,7 +8,7 @@
 
 This project is my first website I've created using React. It was created for my friend that is a coach for Victoria Gaj women football team. It features Headless CMS system that was created using Strapi. -->
 
-# [Warheim army builder](https://vermillion-beignet-3f197a.netlify.app/)
+# [Warheim army builder](https://warheimbuilder.netlify.app/)
 
 
 This project is an army builder for a fantasy miniature game called Warheim. As of current day, there is no online software that allows you to create your army list outside of using pen and paper to do so. To help players around Poland in creating their armies, I've designed this website in order to help make this process much easier and faster. By using this app you can save your lists as a PDF document, save and update them.
