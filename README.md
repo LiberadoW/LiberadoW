@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Welcome to my Github page, my name is Wojciech and my goal is to become a front-end developer.
+### Welcome to my Github page, my name is Wojciech and I am a front-end developer.
 
 ### You can see live versions of my projects below:
 
